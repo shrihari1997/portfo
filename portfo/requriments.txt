@@ -1,0 +1,4 @@
+Pillow==7.0.0
+PyPDF2==1.26.0
+virtualenv==16.7.9
+virtualenvwrapper-win==1.2.5
